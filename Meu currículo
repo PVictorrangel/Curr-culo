@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Currículo</title>
+</head>
+  <body>
+    <style>
+      h1 {text-align: center;}
+    </style>
+  </body>
+<body>
+    
+  <h1>PAULO VICTOR RANGEL DA SILVA CRUZ</h1>
+   
+<p><h4>INFORMAÇÕES PESSOAIS</h4></p>
+  
+  <p>Nome Completo</p>
+    <ul>Paulo Victor Rangl da Silva Cruz</ul>   
+   
+  <p>Data de Nascimento</p>
+    <ul>02/07/2003</ul>
+  
+  <p>Nacionalidade</p>
+    <ul>Brasileiro</ul>
+  
+  <p>Endereço</p>
+    <ul>R. Virginópolis, 11 
+  Divino Esp. Santo Vila Velha, ES</ul>
+  
+  <p>Telefone</p>
+    <ul>(27) 99918-4572</ul>
+  
+  <p>Email</p>
+    <ul>paulovictorrangel@gmail.com</ul>
+    
+ <p><h4>ESCOLARIDADE</h4></p>
+  <ul>
+    <li>
+       <p>Ensino Médio Completo</p>
+    </li>
+    <li>
+       <p>Cursando a faculdade de Ciências da Computação</p>
+    </li>
+  </ul>
+      
+  <p><h4>CURSOS DE APERFEIÇOAMENTO</h4></p>
+  <ul>
+    <li><p>Treinamento de Empregabilidade - POZATO</p></li>
+    
+    <li><p>Qualificação Imediata em Administrção - CEBRAC</p></li>
+    
+    <li><p>Programa Educacional de Resistências ás Drogas - PROERD</p></li>
+    
+    <li><p>Menor Aprendiz - Hospital Santa Mônica</p></li>
+</ul>
+
+
+
+
+
+
+  
+  <script src="script.js"></script>
+</body>
+
+</html>
